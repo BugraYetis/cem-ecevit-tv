@@ -1,30 +1,47 @@
 <div align="center">
 
-# 🚐 Cem Ecevit TV — Karavan Rotaları
+# ✨ Cem Ecevit TV
 
-**Karavan rotaları & kamp rehberi web sitesi**
+**Seyahat & Karavan · Karavan Rotaları**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Canlı_Demo-Cem_Ecevit_TV-6c63ff?style=for-the-badge)](https://mae.com.tr/cemecevittv/)
+<img src="https://bugrayetis.github.io/yeni/assets/covers/cem-ecevit-tv.jpg" width="100%" alt="Cem Ecevit TV ön izleme" />
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Responsive](https://img.shields.io/badge/-Responsive-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)
+<br/><br/>
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-cem-ecevit-tv"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" alt="Portfolyoda incele" /></a>
 
 </div>
 
 ---
 
-## ✨ Proje Hakkında
+## 📌 Proje Hakkında
 
-Cem Ecevit TV YouTube kanalı için tasarlanan karavan rotaları ve kamp rehberi web sitesi. Türkiye'deki karavan rotalarını ve kamp alanlarını tanıtır.
+Avrupa karavan rotaları ve kamp alanları içerik platformu Cem Ecevit TV için geliştirdiğim web sitesi. Rota haritaları, kamp alanı bilgileri ve seyahat tavsiyeleri sunan kapsamlı bir karavan rehberi.
+
+| | |
+|---|---|
+| **Kategori** | Seyahat & Karavan |
+| **Geliştirici** | Buğra Yetiş · MAE Reklam Ajansı |
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **Responsive Design** — Mobil öncelikli tasarım
-- **Video Entegrasyonu** — YouTube içerik bağlantıları
-- **Modern UI** — Kullanıcı dostu arayüz
+![HTML / CSS](https://img.shields.io/badge/HTML_%2F_CSS-1f2233?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2233?style=flat-square)
+![Harita API](https://img.shields.io/badge/Harita_API-1f2233?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-1f2233?style=flat-square)
 
-## 🔗 Bağlantılar
+## 🔒 Kaynak Kod
 
-- 🌐 **Canlı:** [Cem Ecevit TV](https://mae.com.tr/cemecevittv/)
-- 👤 **Geliştirici:** [Buğra Yetiş](https://bugrayetis.github.io)
+Bu repo yalnızca projenin tanıtımını içerir. Müşteri gizliliği ve telif hakları nedeniyle kaynak kod paylaşılmıyor.
+Projeyi canlı görmek, ekran görüntülerine ve detaylarına bakmak için **[portfolyomdaki proje sayfasına](https://bugrayetis.github.io/mevcut.html#proje-cem-ecevit-tv)** göz atın.
+
+---
+
+<div align="center">
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-cem-ecevit-tv"><img src="https://img.shields.io/badge/🌐_Portfolyoda_İncele-bugrayetis.github.io-6c63ff?style=for-the-badge" /></a>
+<a href="https://github.com/BugraYetis"><img src="https://img.shields.io/badge/👤_Tüm_Projeler-BugraYetis-181717?style=for-the-badge&logo=github" /></a>
+
+<sub>Buğra Yetiş — Mid Web Developer & Grafik Tasarımcı · İstanbul</sub>
+
+</div>
