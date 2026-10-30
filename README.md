@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Cem Ecevit TV
+# 🚐 Cem Ecevit TV
 
 **Seyahat & Karavan · Karavan Rotaları**
 
